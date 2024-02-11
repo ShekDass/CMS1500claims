@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "formnumber": "1500",
+		"formtype": "HEALTH INSURANCE CLAIM FORM"
+	},
+	"MEMBER AND PATIENT INFORMATION": [
+		{
+			"1. MEDICARE": "",
+			"MEDICAID": "",
+			"TRICARE CHAMPUS": "",
+			"CHAMPVA":"",
+			"GROUP HEALTH PLAN":"",
+			"FECA":"",
+			"OTHER":"ID",
+			"1a. INSURED'S I.D. NUMBER": "NSOP12884512301",
+			"2. PATIENT'S NAME": "LAWRENCE, MATHEW J",
+			"3. PATIENT's BIRTH DATE":[
+			{"MM":"10", "DD":"19", "YY":"2001"}
+			],
+			"SEX": "F",
+			"4. INSURED'S NAME": "JOSHUA, PAMELA M",
+			"5. PATIENT'S ADDRESS": "255 DR BIG BEN AVE",
+			"CITY": "BRISBANEVILLE",
+			"STATE":"NY",
+			"ZIP CODE": "60067",
+			"6. PATIENT RELATIONSHIP": "Child",
+			"8. PATIENT STATUS":"Single",
+			"7. INSURED'S ADDRESS":"",
+			"CITY": "DETROIT",
+			"STATE":"IL",
+			"ZIP CODE": "61245",
+			"9. OTHER INSURED'S NAME": "LAWRENCE, WILLIAM T",
+			"d. INSURANCE PLAN NAME": "MEDICAID",
+			"10. PATIENT CONDITION": [
+			{"EMPLOYMENT": "NO"},
+			{"AUTO ACCIDENT": "NO"},
+			{"OTHER ACCIDENT":"NO"}
+			],
+			"11. INSURED'S POLICY GROUP ORFECA NUMBER": "641214589",
+			"SEX": "F",
+			"d. IS THERE ANOTHER HEALTH BENEFIT PLAN": "NO",
+			"12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE", 
+			"DATE": "29/09/2022",
+			"13. INSURED OR AUTHORIZED PERSON'S SIGNATURE": "SIGNATURE ON FILE"
+		},		
+	"MEDICAL PROVIDER INFORMATION": [
+        {
+            "21. DIAGNOSIS OR NATURE OF ILLNESS": [
+			{"1.":"G816"},
+			{"2.": "R22"}
+			],
+			"23. PRIOR AUTHORIZATION NUMBER": "9999999",
+			"24. DATE OF SERVICE": [
+			{"MM1":"01", "DD1":"14", "YY1":"23"},
+			{"MM1":"12", "DD1":"21", "YY1":"23"}
+			],
+			"D. PROCEDURES, SERVICES":[
+			{"CPT/HCPCS1":"T3544"},
+			{"CPT/HCPCS2":"Z1925"}
+			],
+			"E. DIAGNOSIS":[
+			{"POINTER1":"AA"},
+			{"POINTER1":"AB"}
+			],
+			"F.":[
+			{"$ CHARGES1":"55 | 50"},
+			{"$ CHARGES2":"1241 | 30"}
+			],
+			"G.":[
+			{"DAYS OR UNITS":"004"},
+			{"DAYS OR UNITS":"002"}
+			],
+            "26. PATIENT'S ACCOUNT NUMBER": "92345876892",
+            "27. ACCEPT ASSIGNMENT": "YES",
+			"28. TOTAL CHARGE": "1296 | 88",
+			"29. AMOUNT PAID": "1010 | 00",
+			"32. SERVICE FACILITY LOCATION": "HEALTH CARE CENTER DOINKEN SQUARE 60445 a. 1154732568"
+		}
+	]
+}
